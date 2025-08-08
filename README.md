@@ -46,7 +46,7 @@ Beside the core modules, this module uses one dependency:
         }
     ]
 ```
-*Do not forget to add extra parameters for other modules (i.e. `classes: "default everyone",` for [face recognition module](https://github.com/nischi/MMM-Face-Reco-DNN))*
+*Do not forget to add extra parameters for other modules (i.e. `classes: "default everyone",` for [face recognition module](https://github.com/nischi/MMM-Face-Reco-DNN)).*
 * Finally, add some cool music to the `musicPath` folder and enjoy!
 
 ## Update
@@ -59,7 +59,7 @@ Beside the core modules, this module uses one dependency:
 
 | Option		| Description |
 | -----------|-------------------------------------------|
-| `musicPath`	| The path of the folder with .mp3 files. <br>**Default:** `'modules/MMM-MP3Player/music/'` <br>**Type:** `string` |
+| `musicPath`	| The path of the folder with music files. <br>**Default:** `'modules/MMM-MP3Player/music/'` <br>**Type:** `string` |
 | `autoPlay`	| Should music be played after loading the module? <br>**Default:** `true` <br>**Type:** `boolean` |
 | `random`		| Should music be shuffled? <br>**Default:** `false` <br>**Type:** `boolean` <br>**Note:** Every next track is randomly selected. So after the playlist ends the order of tracks will be another. |
 | `loopList`	| Loop the tracklist? <br>**Default:** `true` <br>**Type:** `boolean` |
