@@ -46,7 +46,7 @@ Beside the core modules, this module uses one dependency:
         }
     ]
 ```
-*Do not forget to add extra parameters for other modules (i.e. `classes: "default everyone",` for [face recognition module](https://github.com/nischi/MMM-Face-Reco-DNN)).*
+*Do not forget to add extra parameters for other modules (i.e. `classes: "default everyone",` for [face recognition module](https://github.com/nischi/MMM-Face-Reco-DNN))*
 * Finally, add some cool music to the `musicPath` folder and enjoy!
 
 ## Update
